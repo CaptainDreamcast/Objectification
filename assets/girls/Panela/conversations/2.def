@@ -1,0 +1,50 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Panela:"
+Text = "I hate my job."
+
+[Text]
+Speaker = "Panela:"
+Text = "All around me are just idiots."
+
+[Text]
+Speaker = "Panela:"
+Text = "I come home, trying to relax and I can't get their stupid faces out of my head."
+
+[Text]
+Speaker = "Heff:"
+Text = "P... Panela, you remember that we kinda... work together you know?"
+
+[Text]
+Speaker = "Panela:"
+Text = "You have to separate home life and work life, Heff. You're being unprofessional."
+
+[Text]
+Speaker = "Panela:"
+Text = "I've been working with you for five years now. And we even talked once or twice."
+
+[Text]
+Speaker = "Panela:"
+Text = "That's thrice as much as everyone else."
+
+[Text]
+Speaker = "Panela:"
+Text = "I'm glad they get at least some things done. Yesterday, they left the cafeteria the moment I came to work on our new project."
+
+[Text]
+Speaker = "Panela:"
+Text = "What dedication."
+
+[Text]
+Speaker = "Heff:"
+Text = "(I can't tell her.)"
+
+[Text]
+Speaker = "Panela:"
+Text = "Time for YOUR assessment, Mr. Hughner.
+
+[Question]

@@ -1,0 +1,43 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Dumdumdumdum"
+
+[Text]
+Speaker = "Heff:"
+Text = "? ?? ????"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "It's my favorite lullaby. Dumuumudum."
+
+[Text]
+Speaker = "Heff:"
+Text = "B... but we're in a restaurant full of people! Ignore the background, it's true!"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Then they should sing as well. What a waste to eat in such a filled place."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "My mom taught me all kinds of songs. Or at least I think it was my mom. I never asked her."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "At least not periodically. Maybe she was abducted when I wasn't looking."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "And because I never asked again, the replacement alien got away with a clean conscious."
+
+
+[Text]
+Speaker = "Heff:"
+Text = "(I'd say something, but then she'd just start singing again)"
+
+[Question]

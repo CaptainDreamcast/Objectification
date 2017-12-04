@@ -1,0 +1,38 @@
+[Header]
+Sprites = assets/story/CONGRATS.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "In the end, Heff Jr. managed to accomplish his father's goal of getting five girlfriends."
+
+[Text 1]
+Speaker = ""
+Text = "But did it make him feel any better? Did it make him connect with people in a meaningful way?"
+
+[Text 1]
+Speaker = ""
+Text = "Is engaging with people truly the same thing as caring about people?"
+
+[Text 1]
+Speaker = ""
+Text = "One could say Heff connected, given that later that day he was torn apart by five very angry girls."
+
+[Text 1]
+Speaker = ""
+Text = "Thus ends the legend of Heff Hughner Jr. We should all learn a vital lesson from his fate."
+
+[Text 1]
+Speaker = ""
+Text = "And the lesson is... Ah, we're out of time for today, see you next time!"
+
+[Text 1]
+Speaker = ""
+Text = "Thanks for playing!"
+
+[Title]

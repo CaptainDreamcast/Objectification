@@ -1,0 +1,35 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Candice:"
+Text = "Heff, do you have a dream."
+
+[Text]
+Speaker = "Heff:"
+Text = "Yes, but I can't tell you, it's a secret between me and my dad."
+
+[Text]
+Speaker = "Candice:"
+Text = "You should tell people how you feel, Heff!"
+
+[Text]
+Speaker = "Candice:"
+Text = "A few months ago, I was so distressed, I felt a constant pain in my stomach."
+
+
+[Text]
+Speaker = "Candice:"
+Text = "If I had gone to talk to someone about this, I could have avoided the pain."
+
+[Text]
+Speaker = "Candice:"
+Text = "It was just kidney stones, though, tee-hee."
+
+[Text]
+Speaker = "Heff:"
+Text = "... Where are your kidneys?"
+
+[Question]

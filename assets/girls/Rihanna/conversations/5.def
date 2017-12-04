@@ -1,0 +1,47 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Do you want to know what my dream is."
+
+[Text]
+Speaker = "Heff:"
+Text = "(Mine would be a magical escape hatch right beneath me.)"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I want to become the president's bodyguard!"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I'll protect the man in the oval office from hail!"
+
+[Text]
+Speaker = "Heff:"
+Text = "Sounds du- err dangerous."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "My grand-grand-grandfather protected the 33rd president."
+
+[Text]
+Speaker = "Heff:"
+Text = "(Those numbers don't add up.)"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "...Speaking of which:"
+
+
+[Question]

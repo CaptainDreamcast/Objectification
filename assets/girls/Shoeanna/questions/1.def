@@ -1,0 +1,6 @@
+[Header]
+question = "...Pet?"
+answer1 = "C... cat?"
+answer2 = "D... dog?"
+answer3 = "H... hamster?"
+answer4 = "[Silence] ('It's valid' - TellTale)"

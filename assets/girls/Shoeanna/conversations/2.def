@@ -1,0 +1,42 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "...Do you have family? Do you reproduce asexually?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "...Rude."
+
+[Text]
+Speaker = "Heff:"
+Text = "I'm sorry babe, you're just so special to me, and I get stressed out a-"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "...Brother called Rude."
+
+[Text]
+Speaker = "Heff:"
+Text = "What is he? A Final Fantasy character?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "...Rude."
+
+[Question]

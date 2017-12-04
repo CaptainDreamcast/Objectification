@@ -1,0 +1,52 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Candice:"
+Text = "Tee-hee. I'm a little d-i-t-z-y. Lol!"
+
+[Text]
+Speaker = "Heff:"
+Text = "Don't mind it, I think the coffee stains add to my Armani suit."
+
+[Text]
+Speaker = "Candice:"
+Text = "This reminds me of how Mr. Scribbles died."
+
+[Text]
+Speaker = "Candice:"
+Text = "He was a goldfish with a heart of gold."
+
+[Text]
+Speaker = "Candice:"
+Text = "So when I was low on cash-"
+
+[Text]
+Speaker = "Heff:"
+Text = "WHOA WHOA WHOA WHOA, THIS IS A PG 13 GAME!"
+
+[Text]
+Speaker = "Candice:"
+Text = "Huh? I just taught him tricksies, lol!"
+
+[Text]
+Speaker = "Candice:"
+Text = "He could jump through 10 hoops in a rowsie!"
+
+[Text]
+Speaker = "Heff:"
+Text = "But how did he die?"
+
+[Text]
+Speaker = "Candice:"
+Text = "Old age :-("
+
+[Text]
+Speaker = "Heff:"
+Text = "(...?)"
+
+
+
+[Question]

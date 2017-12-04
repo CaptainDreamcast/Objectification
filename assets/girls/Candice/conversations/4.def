@@ -1,0 +1,42 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Candice:"
+Text = "GO GO WESTFORD HIGH, YOU ARE MIGHTY YOU ARE HIGH, GOOOO WESTFORD!"
+
+[Text]
+Speaker = "Heff:"
+Text = "You're pretty enthusiastic about the cheerleading thing, huh?"
+
+[Text]
+Speaker = "Candice:"
+Text = "I mostly do it for the music, tee-hee."
+
+[Text]
+Speaker = "Candice:"
+Text = "I used to play the guitar when I was a kid, you know."
+
+[Text]
+Speaker = "Heff:"
+Text = "What songs did you play?"
+
+[Text]
+Speaker = "Candice:"
+Text = "All my ducklings was my jam. I think I could have recorded a cover and gone pro."
+
+[Text]
+Speaker = "Heff."
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "Sure."
+
+[Text]
+Speaker = "Candice:"
+Text = "Your brain is real huge, right? I want to ask you something:"
+
+[Question]

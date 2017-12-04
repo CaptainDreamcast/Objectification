@@ -1,0 +1,47 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I fear for a post-apocalyptic world full of sandbuggys."
+
+[Text]
+Speaker = "Heff:"
+Text = "That's... oddly specific."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I'd get a mohawk and ride around squeezing resources out of civilians."
+
+[Text]
+Speaker = "Heff:"
+Text = "This is... your fear?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I'd no longer be known as the caring angel of fourth street."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Though I guess 'Terror Queen of Hell' works too."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Please don't call me that, though."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "...Speaking of which:"
+
+
+[Question]

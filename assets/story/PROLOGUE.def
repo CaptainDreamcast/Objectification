@@ -1,0 +1,80 @@
+[Header]
+Sprites = assets/story/PROLOGUE.sff
+
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "Heff Hughner was everything a man could ever hope to be."
+
+[Text 1]
+Speaker = ""
+Text = "He climbed every mountain, surfed every beach and - his proudest achievement - he had more than 500 girlfriends in his life."
+
+[Image 1]
+Group = 1
+Item = 1
+
+
+[Text 1]
+Speaker = ""
+Text = "All men are mortal, so when his time came to pass, Heff called for his son, Heff Hughner Jr."
+
+[Text 1]
+Speaker = ""
+Text = "'Son, please carry on my legacy and do what I could never do', he wheezed."
+
+[Text 1]
+Speaker = ""
+Text = "'Have five girlfriends at the same time.'"
+
+[Text 1]
+Speaker = ""
+Text = "Tearfully, Heff Jr. agreed."
+
+[Text 1]
+Speaker = ""
+Text = "'A day has four hours, son. You can interact with girls for an hour!', he mumbled."
+
+[Text 1]
+Speaker = ""
+Text = "'They will ask you questions about their private life! Answer them, and your relationship health will be restored!'"
+
+[Text 1]
+Speaker = ""
+Text = "Heff Jr. was starting to get uncomfortable."
+
+[Text 1]
+Speaker = ""
+Text = "'Relationships degrade over time, but the more days you are together, the higher the max health!'"
+
+[Text 1]
+Speaker = ""
+Text = "Heff Jr. was looking for a nurse by now."
+
+[Text 1]
+Speaker = ""
+Text = "'Every day, you will find a new girlfriend. You are my son after all. Probably. Only your mother knows for sure, right? Hehehe.'"
+
+[Text 1]
+Speaker = ""
+Text = "At this point Heff Jr. was just mildly irritated."
+
+[Text 1]
+Speaker = ""
+Text = "'There was supposed to be a minigame, but you know. Deadlines.'"
+
+[Text 1]
+Speaker = ""
+Text = "'THAT'S ENOUGH! I'M LEAVING!', Heff Jr. pouted and stormed out of the door."
+
+[Text 1]
+Speaker = ""
+Text = "He could not know that his adventure had only just begun."
+
+[Title]

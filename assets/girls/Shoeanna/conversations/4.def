@@ -1,0 +1,46 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "... Do you have hobbies?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "... *mumbling*"
+
+[Text]
+Speaker = "Heff:"
+Text = "What did you say?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "... Debate club."
+
+[Text]
+Speaker = "Heff:"
+Text = "Ok, debate for me."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "Presidential candidates could learn from this."
+
+[Question]

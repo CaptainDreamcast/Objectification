@@ -1,0 +1,46 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Candice:"
+Text = "I don't have a family... sad emoji face."
+
+[Text]
+Speaker = "Heff:"
+Text = "Please don't vocalise emojis."
+
+[Text]
+Speaker = "Candice:"
+Text = "Thumbs up!"
+
+[Text]
+Speaker = "Candice:"
+Text = "I was abandoned in the woods when I was a child."
+
+[Text]
+Speaker = "Candice:"
+Text = "But the orphanage that took me in was very kind."
+
+[Text]
+Speaker = "Candice:"
+Text = "Though it was later filled because the walls were filled with Asphalt."
+
+[Text]
+Speaker = "Heff:"
+Text = "... Don't you mean asbestos?"
+
+[Text]
+Speaker = "Candice:"
+Text = "Anyway, those as-things made all the kids sick and we were sent away."
+
+[Text]
+Speaker = "Heff:"
+Text = "Tragic."
+
+[Text]
+Speaker = "Candice:"
+Text = "No, Minnesota."
+
+[Question]

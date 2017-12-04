@@ -1,0 +1,51 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Candice:"
+Text = "I'm a cheerleader by trade! :3"
+
+[Text]
+Speaker = "Heff:"
+Text = "That's... a full-time job?"
+
+[Text]
+Speaker = "Candice:"
+Text = "I- it isn't?!"
+
+[Text]
+Speaker = "Candice:"
+Text = "I began cheerleading when I was three years old."
+
+[Text]
+Speaker = "Candice:"
+Text = "It was Thanksgiving and my friend Ralf couldn't finish his meal."
+
+[Text]
+Speaker = "Candice:"
+Text = "So I gave him the energy to finish it!"
+
+[Text]
+Speaker = "Heff:"
+Text = "You cheered him on?"
+
+[Text]
+Speaker = "Candice:"
+Text = "No, I gave him a chair and a r-"
+
+[Text]
+Speaker = "Heff:"
+Text = "TOO DARK, TOO DARK, PUSH THE BACK BUTTON"
+
+[Text]
+Speaker = "Candice:"
+Text = "Huh? Why shouldn't I give him a Rose? He loved those."
+
+[Text]
+Speaker = "Heff:"
+Text = "(Sorry dad, this isn't worth it.)"
+
+
+[Question]

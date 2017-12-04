@@ -1,0 +1,47 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "... Great."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "How is it that man defines greatness? Is it external? Internal? A quality of the soul?"
+
+[Text]
+Speaker = "Heff:"
+Text = "...?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "Nay, I say, for defining greatness ourselves is but folly."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "For our fifty years of life are but a glimmer in divinity's eye."
+
+[Text]
+Speaker = "Heff:"
+Text = "Glimmer? Like the shiny stuff strippers use?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "Alas."
+
+
+[Question]

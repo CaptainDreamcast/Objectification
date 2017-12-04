@@ -1,0 +1,50 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "My hobby is origami."
+
+[Text]
+Speaker = "Heff:"
+Text = "Oregano?"
+
+[Text]
+Speaker = "Audience:"
+Text = "*roaring laughter*"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "No dummy, the art of folding."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "There are 300 distinct ways to make a paper crane."
+
+[Text]
+Speaker = "Heff:"
+Text = "I don't think that's correct."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "My favorite is the lion, though."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I love pushing small Mufasas off the cliff."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Speaking of throwing small things off a cliff:"
+
+[Question]

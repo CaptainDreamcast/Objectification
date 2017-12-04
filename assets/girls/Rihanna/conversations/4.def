@@ -1,0 +1,38 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Few people know this but my favorite genre is gangster rap hip hop."
+
+[Text]
+Speaker = "Heff:"
+Text = "'scuse me?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Straight from the ghetto, homie."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "50 Cent, Tupac, Eminem, I listen to all of them."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I'm in pretty deep."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I'm gonna give you a rap battle line, biscuit:"
+
+[Question]

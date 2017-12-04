@@ -1,0 +1,50 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I work as a nurse at a mental hospital"
+
+[Text]
+Speaker = "Heff:"
+Text = "Oh, are you meeting insane people there?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Oh silly, that's how we met, right?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Just kidding."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "The only insane people there are the management."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Mr. Roberts, the former head manager was convicted last year for 13 counts of sexual assault."
+
+[Text]
+Speaker = "Heff:"
+Text = "That's... grim?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Well, the new head manager is already at 15 an it's only June!"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Ah, by the way:"
+
+[Question]

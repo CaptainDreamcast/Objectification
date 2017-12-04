@@ -1,0 +1,38 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "I'm not sure if we are in a relationship or if this is a social experiment right now."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "...Job. Scientist."
+
+[Text]
+Speaker = "Heff:"
+Text = "That's still... awfully vague."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "Baby steps."
+
+[Question]

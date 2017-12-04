@@ -1,0 +1,59 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "HEY!"
+
+[Text]
+Speaker = "Heff:"
+Text = "Yes, yes, very caring."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "But did you know I had a pet dog named Wet?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "He was a very intelligent dog."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "He tried to run away seven times a week, and I always had to catch him again."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "One time, he wrote SAVE ME in front of the house using nothing but dog treats."
+
+[Text]
+Speaker = "Heff:"
+Text = "Wait, wha-"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Don't worry honey, as long as I'm with you - "
+
+[Text]
+Speaker = "Rihanna:"
+Text = "- and I will be for a long time if you know what's good for you -"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "Nothing bad will happen. So please answer this:"
+
+[Text]
+Speaker = "Heff:"
+Text = "(What kinda transition was that?!)"
+
+
+[Question]

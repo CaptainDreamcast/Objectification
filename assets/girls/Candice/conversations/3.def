@@ -1,0 +1,50 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Candice:"
+Text = "My hobby is modeling!"
+
+[Text]
+Speaker = "Heff:"
+Text = "Oh yeah, did an agency ever pick you up?"
+
+[Text]
+Speaker = "Candice:"
+Text = "..."
+
+[Text]
+Speaker = "Candice:"
+Text = "..."
+
+[Text]
+Speaker = "Candice:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "S- so what's your favorite part of modeling?"
+
+[Text]
+Speaker = "Candice:"
+Text = "The poses! :D"
+
+[Text]
+Speaker = "Candice:"
+Text = "I like how nice everyone is to me. They treat me like a princess."
+
+[Text]
+Speaker = "Candice:"
+Text = "Sometimes I even get chocolate."
+
+[Text]
+Speaker = "Heff:"
+Text = "Is this a common occurence?"
+
+[Text]
+Speaker = "Candice:"
+Text = "No, I lied. I did get 240 love letters last year though."
+
+[Question]

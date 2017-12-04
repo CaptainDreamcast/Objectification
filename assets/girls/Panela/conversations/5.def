@@ -1,0 +1,22 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Panela:"
+Text = "I hate luck."
+
+[Text]
+Speaker = "Panela:"
+Text = "People who are lucky are the worst."
+
+[Text]
+Speaker = "Heff:"
+Text = "Is that it? Are you done?"
+
+[Text]
+Speaker = "Panela:"
+Text = "Yes."
+
+[Question]

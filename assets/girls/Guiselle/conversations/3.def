@@ -1,0 +1,44 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Ice!"
+
+[Text]
+Speaker = "Heff:"
+Text = "We just had dinner."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "No, I want to go bobsliding."
+
+[Text]
+Speaker = "Heff:"
+Text = "It's the middle of summer though."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Can't we just make ice?"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Bobsliding is my favorite hobby. When I was a kid, I was called the Terror Queen of Hell of Bobsliding. Of Hell."
+
+[Text]
+Speaker = "Heff:"
+Text = "I... see?"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "We should go together some time, I'll teach you how to do a loop!"
+
+
+[Text]
+Speaker = "Heff:"
+Text = "L... loop? I don't want to know."
+
+
+[Question]

@@ -1,0 +1,43 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
+
+[Text]
+Speaker = "Heff:"
+Text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
+
+[Text]
+Speaker = "Heff:"
+Text = "This came out of nowhere. What gives?"
+
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "...Spider."
+
+[Text]
+Speaker = "Heff:"
+Text = "Oh, you dislike spiders?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "... Spider Rico... from... the first... Rocky movie."
+
+[Text]
+Speaker = "Heff:"
+Text = "I'm not sure what I expected."
+
+[Question]

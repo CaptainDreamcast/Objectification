@@ -1,0 +1,50 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Panela:"
+Text = "I hate my family."
+
+[Text]
+Speaker = "Heff:"
+Text = "Why this time?"
+
+[Text]
+Speaker = "Panela:"
+Text = "My sister Ruby is completely useless, yet our idiot parents think more highly of her."
+
+[Text]
+Speaker = "Heff:"
+Text = "Why this time?"
+
+[Text]
+Speaker = "Panela:"
+Text = "They say she makes it up 'in heart'. The nerve! Just think of she failed last week!"
+
+[Text]
+Speaker = "Heff:"
+Text = "Why this time?"
+
+[Text]
+Speaker = "Panela:"
+Text = "She invested in some stupid pseudocurrency in 2008, and - probably in shame - went to cash them all in. Enjoy those pennies!"
+
+[Text]
+Speaker = "Heff:"
+Text = "Why thi- Why thi- Why thi- *sound of tape ripping*"
+
+[Text]
+Speaker = "Panela:"
+Text = "Huh?"
+
+[Text]
+Speaker = "Heff:"
+Text = "*wake-up snort* Huh?"
+
+[Text]
+Speaker = "Panela:"
+Text = "You WERE listening, right?"
+
+[Question]

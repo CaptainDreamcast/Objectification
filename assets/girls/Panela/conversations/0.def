@@ -1,0 +1,43 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Panela:"
+Text = "I hate animals."
+
+[Text]
+Speaker = "Panela:"
+Text = "They're so dumb and useless."
+
+
+[Text]
+Speaker = "Panela:"
+Text = "I had a cat when I was a child."
+
+[Text]
+Speaker = "Panela:"
+Text = "All it ever did was lie in the sun. Unproductive."
+
+[Text]
+Speaker = "Panela:"
+Text = "We later gave it away. Poor suckers who got Mr. Whiskers."
+
+[Text]
+Speaker = "Panela:"
+Text = "His last name was... Tusk? Rusk? Whatever the case, his car was weird."
+
+[Text]
+Speaker = "Panela:"
+Text = "Whiskers must now be living a life of poverty."
+
+[Text]
+Speaker = "Heff:"
+Text = "(... Or maybe he's in space?)"
+
+[Text]
+Speaker = "Panela:"
+Text = "HEY! Where you listening?"
+
+[Question]

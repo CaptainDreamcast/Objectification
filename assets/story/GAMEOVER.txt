@@ -1,0 +1,14 @@
+[Header]
+Sprites = assets/story/GAMEOVER.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "Better luck next time!"
+
+[Title]

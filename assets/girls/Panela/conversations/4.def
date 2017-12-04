@@ -1,0 +1,47 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Panela:"
+Text = "I hate cowards."
+
+[Text]
+Speaker = "Heff:"
+Text = "(Who are you? Sgt. Hartman?)"
+
+[Text]
+Speaker = "Panela:"
+Text = "I served in the army, you know."
+
+[Text]
+Speaker = "Heff:"
+Text = "(YOU ARE SGT. HARTMAN!)"
+
+[Text]
+Speaker = "Panela:"
+Text = "I've only been deployed once though, in Afghanistan. That changed me."
+
+[Text]
+Speaker = "Panela:"
+Text = "I was a very cold and rude person before that experience."
+
+[Text]
+Speaker = "Heff:"
+Text = "H... haha, I'd like to see that."
+
+[Text]
+Speaker = "Panela:"
+Text = "That wasn't a joke, pigeonbrain."
+
+
+[Text]
+Speaker = "Ltn. Heff:"
+Text = "I APOLOGIZE SIR!"
+
+[Text]
+Speaker = "Panela:"
+Text = "...?"
+
+[Question]

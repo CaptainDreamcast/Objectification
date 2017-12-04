@@ -1,0 +1,34 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Guiselle:"
+Text = "I looooove little things."
+
+[Text]
+Speaker = "Heff:"
+Text = "An... unusual thing to say while we were just saying our goodbyes, but okay."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "I had a pet rat named Sportler. I always threw him in the air."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "One day, he just didn't come down again. Poor Sportler."
+
+[Text]
+Speaker = "Heff:"
+Text = "I... it's the circle of life."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Yeah, he probably just became a bat."
+
+[Text]
+Speaker = "Heff:"
+Text = "[sweating]"
+
+[Question]

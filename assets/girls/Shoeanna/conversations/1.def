@@ -1,0 +1,38 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "...Soooo, do you have pets?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "...Cat."
+
+[Text]
+Speaker = "Heff:"
+Text = "A cat? Anything more?"
+
+[Text]
+Speaker = "Shoeanna:"
+Text = "..."
+
+[Text]
+Speaker = "Heff:"
+Text = "Well ok then! It's something!"
+
+[Question]

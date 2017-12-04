@@ -1,0 +1,38 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Why is it dark sometimes? It shouldn't dark. It should always be bright."
+
+[Text]
+Speaker = "Heff:"
+Text = "Well it's dar becaus-"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "But then there wouldn't be stars in the sky. That would be sad too."
+
+[Text]
+Speaker = "Heff:"
+Text = "The fact that you c-"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "I'm afraid of stars. What if they come crashing down?"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "The wish stuff is alien propaganda."
+
+[Text]
+Speaker = "Heff:"
+Text = "Actually it comes from the beli-"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "You're very talkative tonight. It's cute, but are you even listening to what I say?"
+
+[Question]

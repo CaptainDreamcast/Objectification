@@ -1,0 +1,26 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Panela:"
+Text = "I hate music."
+
+[Text]
+Speaker = "Panela:"
+Text = "It encourages people to be noisy. They are noisy enough as it is."
+
+[Text]
+Speaker = "Panela:"
+Text = "Yesterday I threw a rock in my neighbor's window, so he would be quiet."
+
+[Text]
+Speaker = "Panela:"
+Text = "When he asked why, I replied 'Because I want to hear the noise better, idiot.'"
+
+[Text]
+Speaker = "Heff:"
+Text = "(Th... those youtube comments were true?!)"
+
+[Question]

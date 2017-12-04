@@ -1,0 +1,47 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Heff, do you consider yourself lucky?"
+
+[Text]
+Speaker = "Heff:"
+Text = "Well, *unbuttons shirt*, I'm here with you right now and-"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "I've been unlucky from birth. When I was a child, I once found a 100 dollar bill."
+
+[Text]
+Speaker = "Heff:"
+Text = "*buttons shirt* That doesn't sound unlucky to me."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "I only later noticed it wasn't a 100 dollar bill at all. It was a one dollar bill someone scribbled a few zeros on."
+
+
+[Text]
+Speaker = "Heff:"
+Text = "Th... that's tough."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "I went into a deep depression at that time. Sometimes I still feel it now."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Sometimes I feel Benjamin Franklin in my dreams."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Mocking me. Belittling me."
+
+[Text]
+Speaker = "Heff:"
+Text = "Please just end it here and ask the question!"
+
+[Question]

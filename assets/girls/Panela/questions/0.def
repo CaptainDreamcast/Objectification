@@ -1,0 +1,6 @@
+[Header]
+question = "What pet did I have?"
+answer1 = "A cat."
+answer2 = "A dog."
+answer3 = "None."
+answer4 = "Elon Musk, domesticated."

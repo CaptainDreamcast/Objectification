@@ -1,0 +1,55 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Heff:"
+Text = "Do you work somewhere?"
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Yes."
+
+[Text]
+Speaker = "Heff:"
+Text = "... So where do you work."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Yes."
+
+[Text]
+Speaker = "Heff:"
+Text = "... So you're not telling me."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "No."
+
+[Text]
+Speaker = "Heff:"
+Text = "WHERE. DO. YOU. WORK."
+
+[Text]
+Speaker = "Guiselle:"
+Text = "Yes."
+
+[Text]
+Speaker = "Special guest star Macaulay Culkin:"
+Text = "She means the Youth Engagement Scene, a famous art gallery."
+
+[Text]
+Speaker = "Heff:"
+Text = "Thanks Mr. Culkin."
+
+[Text]
+Speaker = "Special guest star Macaulay Culkin:"
+Text = "Always a pleasure."
+
+
+[Text]
+Speaker = "Guiselle:"
+Text = "So yes..."
+
+[Question]

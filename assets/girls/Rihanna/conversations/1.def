@@ -1,0 +1,46 @@
+[Portrait]
+
+animation = 1
+position = 200,300,30
+
+[Text]
+Speaker = "Rihanna:"
+Text = "You know that I'm a very caring person, right?"
+
+[Text]
+Speaker = "Heff:"
+Text = "..."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I come from a very caring family."
+
+[Text]
+Speaker = "Heff:"
+Text = "C- cool."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "All in all, we were seven sisters and three brothers."
+
+[Text]
+Speaker = "Rihanna:"
+Text = "My oldest brother, Mitch, died during the great hail of '89."
+
+[Text]
+Speaker = "Heff:"
+Text = "(Wait, you're acknowledging you're an umbrella?!)"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "My father always used to say, make sure to help people before they replace you with one of those portable things."
+
+[Text]
+Speaker = "Heff:"
+Text = "A PSP?"
+
+[Text]
+Speaker = "Rihanna:"
+Text = "I never had a PSP? Are you even listening?"
+
+[Question]
